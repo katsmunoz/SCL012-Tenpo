@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
         <p>
-         Bienvenidos a Tenpo
+         Bienvenidas a Tenpo
         </p>
     </div>
   );
